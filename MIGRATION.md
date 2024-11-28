@@ -1,6 +1,7 @@
 ---
 title: Migration and Upgrading
-layout: default
+layout: null
+published: false
 ---
 
 # Migrating and Upgrading
