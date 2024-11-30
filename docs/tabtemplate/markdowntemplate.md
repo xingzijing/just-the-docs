@@ -1,6 +1,7 @@
 ---
 title: Markdown Template
-nav_order: 100
+parent: Tab Template
+nav_order: 1
 ---
 
 # Markdown Template
