@@ -1,7 +1,7 @@
 ---
 title: A minimal layout page
 layout: minimal
-parent: Layout
+parent: Tab Template
 ---
 
 # A minimal layout page
