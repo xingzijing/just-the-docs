@@ -2,7 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "This is the home page of Zijing's Projects"
 permalink: /
 ---
 
