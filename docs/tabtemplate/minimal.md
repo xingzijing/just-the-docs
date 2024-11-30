@@ -2,6 +2,7 @@
 title: A minimal layout page
 layout: minimal
 parent: Tab Template
+nav_order: 2
 ---
 
 # A minimal layout page
