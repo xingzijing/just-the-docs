@@ -2,7 +2,7 @@
 title: Default layout child page
 layout: default
 parent: A minimal layout page
-grand_parent: Layout
+grand_parent: Tab Template
 ---
 
 # A minimal layout page
