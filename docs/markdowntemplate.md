@@ -3,7 +3,7 @@ title: Markdown Template
 nav_order: 100
 ---
 
-# Md Template
+# Markdown Template
 {: .no_toc }
 
 Abstract for the page.
