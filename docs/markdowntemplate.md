@@ -1,5 +1,5 @@
 ---
-title: Md Template
+title: Markdown Template
 nav_order: 100
 ---
 
@@ -7,7 +7,7 @@ nav_order: 100
 {: .no_toc }
 
 Abstract for the page.
-{: .fs-6 .fw-300 }
+{: .fs-5 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }
